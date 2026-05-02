@@ -1,5 +1,12 @@
 # Hi, I'm archidoge0 👋
 
+## Research Projects
+
+| Project | Description |
+|---------|-------------|
+| [ZKAP](https://github.com/whbjzzwjxq/ZKAP) | Practical Security Analysis of Zero-Knowledge Proof Circuits (USENIX Security'24) |
+| [Foray](https://github.com/whbjzzwjxq/Foray) | Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols (ACM CCS'24) |
+
 ## Open-Source Contributions
 
 ### Security Audits — [openclaw/clawhub](https://github.com/openclaw/clawhub)
